@@ -1,0 +1,135 @@
+body {
+  background-color: hsl(218, 28%, 13%);
+}
+#logo-and-nav{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.illustration-body{
+  text-align: center;
+  color: white;
+  margin: 30px;
+}
+#small-body{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color:white;
+  width:450px;
+}
+#first-button{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  min-width: 200px;
+  color: white;
+  border-radius: 20px;
+}
+.services{
+  margin-top:150px;
+  display: block;
+  margin-bottom:150px;
+  margin-right:auto;
+  margin-left:auto;
+}
+.card{
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  background: inherit;
+  color:white;
+  max-width: 450px;
+  text-align: center;
+}
+.card-text{
+  color:grey;
+}
+#productivity-text{
+  margin-top: 12%;
+  text-align: left;
+}
+#productivity-link{
+  color:hsl(176, 68%, 64%);
+}
+#Testimonials{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+#Testimonials .card-body{
+  text-align: left;
+}
+#Testimonials .card{
+  background: hsl(219, 30%, 18%);
+  margin:20px;
+  min-width:350px;
+}
+span{
+  color:grey;
+}
+.container.profile{
+  margin-top:25px;
+}
+.col-10.bio{
+  font-size:15px;
+}
+#pfp {
+  border-radius: 50%;
+  height:35px;
+  width:35px;
+  float: left;
+  margin-top: 7px;
+}
+#signUp{
+width:100%;
+transform: translate(0,50%);
+}
+#signUp .card{
+  max-width:70%;
+  background: hsl(217, 28%, 15%);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#container-form .btn.btn-info{
+border-radius: 20px;
+color:white;
+max-width: 100%;
+padding-right: 20px;
+padding-left: 20px;
+margin-top: 20px;
+}
+.form-control.me-2{
+  margin-top: 20px;
+  max-width:90%;
+  margin-left: 10%;
+  border-radius: 50px;
+}
+.container-footer, .attribution{
+  width:100%;
+  background-color: hsl(216, 53%, 9%);
+}
+.container-footer{
+  padding-top: 200px;
+  color:white;
+  font-size: 14px;
+}
+.row.big{
+  margin-left: 8%;
+  margin-top: 30px;
+}
+#micon{
+  margin-left: 80px;
+}
+.fab{
+  padding:5px;
+  border:solid white;
+  border-width: thin;
+  border-radius:50%;
+}
+.row.big.plenty .col-md-3, .row.big.plenty .col-md-2{
+  padding-bottom:50px;
+}
+.col-md-2.ext-icons{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
